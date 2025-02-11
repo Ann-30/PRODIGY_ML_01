@@ -1,5 +1,7 @@
 Predicting House Prices Using Linear Regression
+
 Overview
+
 This project aims to develop a predictive model for estimating house prices based on three key factors: square footage, number of bedrooms, and number of bathrooms. By leveraging linear regression, we create a simple yet effective model that can help in understanding the relationship between these variables and house prices, and provide accurate predictions for potential buyers and sellers.
 
 Objective
